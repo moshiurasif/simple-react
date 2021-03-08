@@ -1,0 +1,29 @@
+.player{
+    float: left;
+}
+.player-data{
+    /* display:flex; */
+    /* text-align:center; */
+    margin: 50px;
+    border: 1px solid gray;
+    height: 450px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 10px 10px 5px #aaaaaa;
+
+}
+.player-data img{
+    width: 100%;
+}
+/* .player-data button{
+    height:35px;
+    width: 200px;
+    border: 1px solid black;
+    background-color:#ffdc00;
+    font-weight: bold;
+    
+} */
+
+.player-data button:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.home{
+    display:flex;
+   
+}
+.name-unit{
+    width: 70%;
+    border-right: 1px solid black;
+    text-align: left;
+}
+.cart-unit{
+    text-align:center;
+}

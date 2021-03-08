@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "name": "Messi",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKzppLKc-INjO9MFqwoBQYGtrnTLiYkRA5nA&usqp=CAU",
+    "currentClub": "Fc Barcelona",
+    "gender": "Male",
+    "salary": 450000
+  }, {
+    "id": 2,
+    "name": "Ronaldo",
+    "img": "https://static.straitstimes.com.sg/s3fs-public/styles/medium/public/articles/2019/06/05/lwx_cristiano_ronaldo_050619_59.jpg?itok=ZYbti7Ua",
+    "currentClub": "Juventas",
+    "gender": "Male",
+    "salary": 350000
+  }, {
+    "id": 3,
+    "name": "Neymar",
+    "img": "https://technoinfoplus.com/wp-content/uploads/2020/09/19A287F5-0C50-46F3-8E45-C194025C94EB-300x200.jpeg",
+    "currentClub": "PSG",
+    "gender": "Male",
+    "salary": 300000
+  }, {
+    "id": 4,
+    "name": "Grizmann",
+    "img": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2017/06/04/11/griezmann.jpg?width=300&auto=webp&quality=75",
+    "currentClub": "FC BARCELONA",
+    "gender": "Male",
+    "salary": 320000
+  }, {
+    "id": 5,
+    "name": "Ramos",
+    "img": "https://images.mid-day.com/images/images/2020/jun/sergio-ramos-june-a_l.jpg",
+    "currentClub": "REAL MADRID",
+    "gender": "Male",
+    "salary": 300000
+  }, {
+    "id": 6,
+    "name": "Xavi",
+    "img": "https://i0.wp.com/fcbar.ca/wp-content/uploads/2015/11/hi-res-452212295-xavi-of-barcelona-in-action-during-the-uefa-champions_crop_north.jpg?fit=300%2C200",
+    "currentClub": "FC BARCELONA",
+    "gender": "Male",
+    "salary": 150000
+  }, {
+    "id": 7,
+    "name": "Kane",
+    "img": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dwPJQ.img?h=200&w=300&m=6&q=60&o=f&l=f&x=695&y=428",
+    "currentClub": "TOTTENHUM",
+    "gender": "Male",
+    "salary": 250000
+  }, {
+    "id": 8,
+    "name": "Pogba",
+    "img": "https://i.pinimg.com/474x/26/55/88/2655888c38f4920b1c593cbf0c2b544f.jpg",
+    "currentClub": "MANCHESTER UNITED",
+    "gender": "Male",
+    "salary": 150000
+  }, {
+    "id": 9,
+    "name": "Tar Staigen",
+    "img": "https://pressfrom.info/upload/images/real/2020/10/09/ter-stegen-en-passe-de-rempiler-au-barca__969379_.jpg",
+    "currentClub": "FC BARCELONA",
+    "gender": "Male",
+    "salary": 120000
+  }, {
+    "id": 10,
+    "name": "Sadio Mane",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvsGawuU3oJIT8tc4AH5lnNJNPLdbN7oS8w&usqp=CAU",
+    "currentClub": "LIVERPOOL",
+    "gender": "Male",
+    "salary": 100000
+  }, {
+    "id": 11,
+    "name": "Salah",
+    "img": "https://middaycdn.s.llnwi.net/images/images/2020/nov/Mohamed-Salah-negative_l.jpg",
+    "currentClub": "LIVERPOOL",
+    "gender": "Male",
+    "salary": 350000
+  }, {
+    "id": 12,
+    "name": "Ericson",
+    "img": "https://static.straitstimes.com.sg/s3fs-public/styles/medium/public/articles/2020/01/25/fbl-eng-pr-tottenham-norwich-220148.jpg?itok=0Xr391nu",
+    "currentClub": "TOTTENHUM",
+    "gender": "Male",
+    "salary": 150000
+  }, {
+    "id": 13,
+    "name": "De Gia",
+    "img": "https://indianhotdeal.com/wp-content/uploads/2020/03/David-gea-won-Award-300x200.jpg",
+    "currentClub": "MANCHESTER UNITED",
+    "gender": "Male",
+    "salary": 150000
+  }, {
+    "id": 14,
+    "name": "Ansu Fati",
+    "img": "https://estaticos-cdn.sport.es/clip/7fac5a5a-0e43-4e72-aaba-6aad6d54c6a4_baja-libre-aspect-ratio_default_0.jpg",
+    "currentClub": "FC BARCELONA",
+    "gender": "Male",
+    "salary": 100000
+  }, {
+    "id": 15,
+    "name": "Pique",
+    "img": "https://i.pinimg.com/originals/77/8c/3b/778c3b4bfa302ec3233f305ff2f66102.jpg",
+    "currentClub": "FC BARCELONA",
+    "gender": "Male",
+    "salary": 50000
+  }]
